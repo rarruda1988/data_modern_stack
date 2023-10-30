@@ -9,3 +9,4 @@ services:
     ports:
       - '5433:5432'
     container_name: postgres
+    restart: unless-stopped
