@@ -1,0 +1,3 @@
+apache-airflow-providers-airbyte
+dbt-bigquery==1.6.7
+astronomer-cosmos==1.1.3
